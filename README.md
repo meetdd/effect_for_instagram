@@ -20,3 +20,6 @@
 ## 🛠️ How to Open
 
 1. Download or clone this repository
+step1:- download spark AR studio from META
+step 2:- upload files 
+step 3 :- configure it , and modify it 
